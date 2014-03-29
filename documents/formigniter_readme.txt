@@ -1,5 +1,6 @@
 FormIgniter readme file
 
+Originally from:
 http://formigniter.org/
 Ollie Rattue - orattue[at]toomanytabs.com
 
@@ -10,7 +11,9 @@ view - myform_view.php
 model - myform_model.php
 sql - sql.php
 
-Load the MVC files into /system/application/ in the relevant directories.
+Install CI HMCV from https://bitbucket.org/wiredesignz/codeigniter-modular-extensions-hmvc 
+make a copy of files in /system/application/modules 
+@tanselt
 
 Build the database using the sql either running it directly from the command line or importing using a tool such a phpMyAdmin.
 
